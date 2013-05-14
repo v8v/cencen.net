@@ -1,4 +1,4 @@
-﻿<?php
+﻿ <?php
 
  /*数据库连接*/
 
@@ -18,11 +18,11 @@ $DB_DATABASE="cencen";//数据库
 
  /*FTP*/
 
-$FTP_HOST="106.187.96.73";  //FTP地址
+$FTP_HOST="127.0.0.1";  //FTP地址
 
-$FTP_USER="jiuchenszchina";       //FTP用户名
+$FTP_USER="ftp";       //FTP用户名
 
-$FTP_PASSWORD="jiuchenszchina1"; //FTP密码
+$FTP_PASSWORD=""; //FTP密码
 
 
 
